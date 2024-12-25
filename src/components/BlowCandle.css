@@ -1,0 +1,36 @@
+.blow-candle-container {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.candle-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.instruction {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+.success-message {
+    font-size: 1.5rem;
+    color: #28a745;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
